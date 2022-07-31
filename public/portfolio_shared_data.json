@@ -1,17 +1,17 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
-      "titles": [ "Software Developer" ],
+      "name": "Alex Rivera",
+      "titles": [ "Software Developer - Bringing ideas to life in the digital world" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/alexriverau",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/alexriverau/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
