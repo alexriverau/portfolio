@@ -11,70 +11,74 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "recipe-reservoir",
+        "startDate": "June 2022",
+        "description": "A digital space to input recipes, and recall them based on available ingredients.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/recipe-reservoir/p1.jpg",
+          "images/portfolio/recipe-reservoir/p2.jpg"
         ],
-        "url": "",
+        "url": "https://github.com/Toonts/recipe-reservoir",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "odd-duck",
+        "startDate": "June 2022",
+        "description": "App that shows three random images. The user clicks on one and three more are generated. Each time rendering unique sets of three to avoid repetition from the previous three. After 25 clicks the user will press the 'View Results' button to render a chart showing the number of views (# of times shown) and votes (# of clicks) for each image.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/odd-duck/p1.jpg",
+          "images/portfolio/odd-duck/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/alexriverau/odd-duck",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          }
+        ]
+      },
+      {
+        "title": "cookie-stand",
+        "startDate": "June 2022",
+        "description": "App that calculates daily sales projections for each location of a business that sales salmon cookies. Stores the min/max hourly customers, and the average cookies sold per customer. Allows the user to create new stores, and renders the data in a table format.",
+        "images": [
+          "images/portfolio/cookie-stand/p1.jpg",
+          "images/portfolio/cookie-stand/p2.jpg"
+        ],
+        "url": "https://github.com/alexriverau/cookie-stand",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           }
         ]
       }
