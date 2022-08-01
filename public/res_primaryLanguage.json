@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello",
-      "description": "My name is Alex Rivera. I’m a Software Developer with a background in interpreting and translations services in the medical field and legal affairs. Fluent in English and Spanish. One of my greatest strengths is my ability to adapt quickly and efficiently to different work and social environments. I'm passionate about using code to maximize results while developing creative socially-conscious solutions. I’m interested in securing a role at a company in the Tech industry that allows me to further cultivate my expertise in this field.",
+      "description": "My name is Alex Rivera. I'm a Software Developer with a background in interpreting and translations services in the medical field and legal affairs. Fluent in English and Spanish. One of my greatest strengths is my ability to adapt quickly and efficiently to different work and social environments. I'm passionate about using code to maximize results while developing creative socially-conscious solutions. I'm interested in securing a role at a company in the Tech industry that allows me to further cultivate my expertise in this field.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,15 +11,25 @@
     },
     "projects": [
       {
-        "title": "recipe-reservoir",
-        "startDate": "June 2022",
-        "description": "A digital space to input recipes, and recall them based on available ingredients.",
+        "title": "Gallery of Horns",
+        "startDate": "July 2022",
+        "description": "App that displays images and information of horned animals. It allows the user to filter the images by number of horns and to chose their favorite image.",
         "images": [
-          "images/portfolio/recipe-reservoir/p1.jpg",
-          "images/portfolio/recipe-reservoir/p2.jpg"
+          "images/portfolio/gallery-of-horns/p1.jpg",
+          "images/portfolio/gallery-of-horns/p2.jpg"
         ],
-        "url": "https://github.com/Toonts/recipe-reservoir",
+        "url": "https://github.com/alexriverau/gallery-of-horns",
         "technologies": [
+          {
+            "name": "React",
+            "class": "devicon-react-original",
+            "level": "65"
+          },
+          {
+            "name": "Bootstrap",
+            "class": "devicon-bootstrap-plain",
+            "level": "85"
+          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
@@ -35,7 +45,7 @@
         ]
       },
       {
-        "title": "odd-duck",
+        "title": "Odd Duck",
         "startDate": "June 2022",
         "description": "App that shows three random images. The user clicks on one and three more are generated. Each time rendering unique sets of three to avoid repetition from the previous three. After 25 clicks the user will press the 'View Results' button to render a chart showing the number of views (# of times shown) and votes (# of clicks) for each image.",
         "images": [
@@ -59,7 +69,7 @@
         ]
       },
       {
-        "title": "cookie-stand",
+        "title": "Cookie Stand",
         "startDate": "June 2022",
         "description": "App that calculates daily sales projections for each location of a business that sales salmon cookies. Stores the min/max hourly customers, and the average cookies sold per customer. Allows the user to create new stores, and renders the data in a table format.",
         "images": [
@@ -85,37 +95,50 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Lamp Interpreters",
+        "title": "Certified Medical Interpreter - Spanish",
+        "years": "02.2013 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "macOS"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "symplr",
+          "Schedulelnterpreter",
+          "ghx",
+          "iOS",
+          "Chrome",
+          "Windows",
+          "Office"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Schneider Industries, Inc.",
+        "title": "Executive Assistant Latin America",
+        "years": "01.2012 - 12.2012",
         "mainTech": [
-          "Angular 7/8"
+          "Windows"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "macOS",
+          "iOS",
+          "Chrome",
+          "Fireox",
+          "Office"
+        ]
+      },
+      {
+        "company": "Ed Experts - ATI Enterprises Inc.",
+        "title": "Customer Service Specialist",
+        "years": "02.2010 - 12.2011",
+        "mainTech": [
+          "Windows"
+        ],
+        "technologies": [
+          "macOS",
+          "iOS",
+          "Chrome",
+          "Fireox",
+          "Office"
         ]
       }
     ]
